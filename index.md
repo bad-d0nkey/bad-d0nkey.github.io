@@ -1,9 +1,8 @@
 ---
 title: "bad-d0nkey!"
-image: "bad-d0nk.jpg"
 links:
   - label: storymap
-    url: "link"
+    url: "https://storymap.knightlab.com/edit/?id=la-vie-de-edith-piaf"
   - label: model
     url: "link"
   - label: ren'py
