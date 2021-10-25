@@ -29,9 +29,7 @@ Let's Try This Another Way
 
 Sneaking, sneaking, oh, how I love sneaking! Let's see now. Check out...
 
-+ my storymap re: the [indomitable Mme. Piaf](link)
-    `<iframe src="https://uploads.knightlab.com/storymapjs/3d112332d6f8d1cf814fc6d585480cb8/la-vie-de-edith-piaf/index.html" frameborder="0" width="100%" height="800"></iframe>`
-
++ my storymap re: the [indomitable Mme. Piaf](https://bad-d0nkey.github.io/storymap/edith-piaf)
 + my creepy-assed, yet best-of-the-bunch [model of El Mirador](link)
 + my Ren'Py novel, [The Gods Are Neon](https://bad-d0nkey.github.io/thegodsareneon-1.0-web)
 
