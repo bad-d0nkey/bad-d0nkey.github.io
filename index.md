@@ -2,6 +2,8 @@
 
 This is a site I build with gh-pages.
 
-It reads [markdown](https://www.markdownguide.org/) and turns it into html.
+There is a side menu that I can't quite figure out how to edit. Googling has not been my friend. Hmmmmmmmmmmmmm.
 
-![gif ftw](https://media.giphy.com/media/nXxOjZrbnbRxS/200w_d.gif)
+What I want to do is have a link on the side for the Ren'Py game, my storymap.js, and my creepy-assed model. 
+
+![hmmm](https://giphy.com/gifs/theoffice-Aausss8uUBIe3bZ3d2)
