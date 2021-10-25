@@ -2,7 +2,7 @@
 title: "bad-d0nkey!"
 ---
 
-Sfuff
+Stuff
 =======
 
 There is supposed to be a manu of sorts. And from what I have gleaned, when I add new .md files, they're supposed to become part of my site. This is true. Each page has its own link. But how to reflect that here is beyond me. I've tinkered, noodled, and asked, but I think vocabulary has gotten in my way again. I even changed templates so I wouldn't have to deal with a sidebar meny thingie. Meh. Good enough! I've got a static site. That was the task. 
