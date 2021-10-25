@@ -1,3 +1,17 @@
+---
+title: "bad-d0nkey!"
+image: "bad-d0nk.jpg"
+links:
+  - label: storymap
+    url: "https://carleton.ca/history/people/shawn-graham/"
+  - label: model
+    url: "https://twitter.com/electricarchaeo"
+  - label: ren'py
+    url: "https://github.com/shawngraham"
+output:
+  postcards::trestles
+---
+
 Here's Some Fun Stuff
 =======
 
